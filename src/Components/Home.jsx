@@ -2,9 +2,9 @@ import React from 'react'
 
  function Home() {
   return (
-    <div>
-      <h1>Welcome</h1>
-    </div>
+    
+      <h1>Welcome to our world</h1>
+    
   )
 }
-export {Home}
+export default Home;
